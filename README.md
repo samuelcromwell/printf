@@ -1,4 +1,5 @@
 This project was done by Samuel Cromwell and James Opondo
+
 Printf.
 int printf ( const char * format, ... );
 This is the first group project that we have at ALX africa which consists of replicating the printf (3) function of language c, calling it this way _printf.
